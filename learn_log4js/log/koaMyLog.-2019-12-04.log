@@ -1,0 +1,14 @@
+{"date":"2019-12-04T15:33:30.036","level":"INFO","data":'响应时间为: 0.0080s，请求 url : /'}
+{"date":"2019-12-04T15:33:30.077","level":"INFO","data":'响应时间为: 0.0020s，请求 url : /favicon.ico'}
+{"date":"2019-12-04T15:33:33.759","level":"INFO","data":'响应时间为: 0.0010s，请求 url : /'}
+{"date":"2019-12-04T15:33:33.798","level":"INFO","data":'响应时间为: 0.0010s，请求 url : /favicon.ico'}
+{"date":"2019-12-04T15:36:31.502","level":"INFO","data":'响应时间为: 0.0020s，请求 url : /'}
+{"date":"2019-12-04T15:36:31.541","level":"INFO","data":'响应时间为: 0.0000s，请求 url : /favicon.ico'}
+{"date":"2019-12-04T15:36:32.292","level":"INFO","data":'响应时间为: 0.0000s，请求 url : /'}
+{"date":"2019-12-04T15:36:32.336","level":"INFO","data":'响应时间为: 0.0000s，请求 url : /favicon.ico'}
+{"date":"2019-12-04T15:36:32.809","level":"INFO","data":'响应时间为: 0.0000s，请求 url : /'}
+{"date":"2019-12-04T15:36:32.853","level":"INFO","data":'响应时间为: 0.0010s，请求 url : /favicon.ico'}
+{"date":"2019-12-04T15:38:35.018","level":"WARN","data":'it is work'}
+{"date":"2019-12-04T15:38:35.021","level":"INFO","data":'响应时间为: 0.0030s，请求 url : /'}
+{"date":"2019-12-04T15:38:35.051","level":"WARN","data":'it is work'}
+{"date":"2019-12-04T15:38:35.051","level":"INFO","data":'响应时间为: 0.0000s，请求 url : /favicon.ico'}

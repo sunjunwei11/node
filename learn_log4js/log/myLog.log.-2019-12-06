@@ -1,0 +1,4 @@
+[2019-12-06T20:47:59.742] [ERROR] test - test - this is error
+[2019-12-06T20:47:59.742] [FATAL] test - test - this is fatal
+[2019-12-06T20:48:09.334] [ERROR] test - test - this is error
+[2019-12-06T20:48:09.334] [FATAL] test - test - this is fatal
